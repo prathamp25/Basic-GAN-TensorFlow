@@ -4,4 +4,4 @@ Notebook demonstrates the implementation of a Generative Adversarial Network (GA
 
 It includes the construction of a simple generator and discriminator, training procedures, and visualization of generated outputs. 
 
-The notebook is designed for beginners looking to understand the fundamentals of GANs and how they generate synthetic data.  
+The notebook is designed for beginners looking to understand the fundamentals of GANs and how synthetic data is generated.
